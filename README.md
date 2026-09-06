@@ -15,7 +15,7 @@ EOO-KG provides controlled semantic resources spanning key Earth observation con
 - Methods
 - Regions
 - Sensors
-- Observing systems
+- Systems
 - Units
 - Scientific trend concepts
 
