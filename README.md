@@ -4,6 +4,8 @@
 
 EOO-KG is a governed ontology resource for representing scientific concepts and relationships in Earth observation (EO) knowledge systems.
 
+![EOO-KG — Eight connected vocabularies for Earth Observation science](assets/HERO_EOO-KG.png)
+
 EOO-KG is developed within **CADENCE (Cognitive Analysis by Data-Enabled Neural Computation and Evaluation)**, a research framework for scientifically grounded and trustworthy AI.
 
 ## Scope
