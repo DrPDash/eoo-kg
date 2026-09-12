@@ -8,6 +8,10 @@ EOO-KG is a governed Earth Observation ontology resource for representing scient
 
 EOO-KG is developed within **CADENCE (Cognitive Analysis by Data-Enabled Neural Computation and Evaluation)**.
 
+## Architecture at a Glance
+
+![EOO-KG Architecture Overview](assets/ARCHITECTURE_EOO-KG.png)
+
 ## Purpose
 
 Earth Observation knowledge is expressed through curated ontology and lexical resources rather than embedded directly in application logic.
